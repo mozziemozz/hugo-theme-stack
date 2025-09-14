@@ -241,6 +241,7 @@ related:
 markup:
     goldmark:
         extensions:
+            strikethrough: true
             passthrough:
                 enable: true
                 delimiters:
